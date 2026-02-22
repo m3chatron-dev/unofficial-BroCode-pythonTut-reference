@@ -7,6 +7,6 @@ def happy_birthday(x, y):
     print(f"Happy birthday to {x}!")
     print()
 
-happy_birthday("Arthur", 13)
+happy_birthday("Lamar", 20)
 happy_birthday("Steve", 30)
 happy_birthday("Joe", 40)
