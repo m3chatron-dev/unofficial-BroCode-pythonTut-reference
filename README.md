@@ -2,7 +2,7 @@
 
 This repository contains my personal implementation of the projects and concepts covered in the **12-Hour Python Course** by **Bro Code**. 
 
-FYI: This was made in PyCharm
+FYI: This was made in PyCharm and I have not organized it well as of now.
 
 ## Project Overview
 The initial purpose of this repository was to document my progress as I watched the video, but I wanted to share this to other people as a resource.
