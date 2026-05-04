@@ -2,7 +2,7 @@
 
 This repository contains my personal implementation of the projects and concepts covered in the **12-Hour Python Course** by **Bro Code**. 
 
-FYI: This was made in PyCharm and I have not organized it well as of now.
+FYI: The video uses **PyQt5**, but the current version is **PyQt6**, and that is what I am using. I recommend using the latest, and currently that's PyQt6, so check my version for any differences between his and mine, and there should be comments for the differences. If in the future there is a "PyQt7" or a later version, check [Stack Overflow](https://stackoverflow.com/) for any changes between versions if you get an error when replication exactly from the video.
 
 ## Project Overview
 The initial purpose of this repository was to document my progress as I watched the video, but I wanted to share this to other people as a resource.
@@ -10,10 +10,10 @@ The initial purpose of this repository was to document my progress as I watched 
 ## Attribution & Credits
 The logic and curriculum followed in this repository are based on the instructional content provided by **Bro Code**. 
 
-* **Original Instructor:** [Bro Code](https://www.youtube.com/@BroCodez)
-* **Tutorial Link:** [Python Full Course for Beginners (12 Hours)](https://www.youtube.com/watch?v=XKHEtdqhLK8)
+* **Creator:** [Bro Code](https://www.youtube.com/@BroCodez)
+* **Tutorial Link:** [Python Full Course for free 🐍(12 Hours)](https://www.youtube.com/watch?v=XKHEtdqhLK8)
 
-> **Disclaimer:** This code is for educational purposes only. I have written this implementation while following the tutorial to build my skills as a programmer/developer.
+> **Disclaimer:** This code is for educational purposes only. I do not claim ownership of the code, as it rightfully belongs to [Bro Code](https://www.youtube.com/@BroCodez). Also, I made this reference a bit later from the start, so some of the earlier topics are not referenced in my repo. I will add them later due to things that are more prioritized at the moment.
 
 ## 🛠 Concepts Covered
 * NOT Variables & Data Types (I did not add these yet)
