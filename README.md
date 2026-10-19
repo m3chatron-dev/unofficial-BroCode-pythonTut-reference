@@ -23,12 +23,5 @@ The logic and curriculum followed in this repository are based on the instructio
 * File Detection & Handling
 * GUI Programming (if applicable)
 
-## How to Use
-1. Clone the repository:
-   `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git`
-2. Navigate to the specific project folder you'd like to run.
-3. Run the script:
-   `python filename.py`
-
 ---
 *BroCode, if at any point you feel uncomfortable with this being shared; please let me know. I have no way of contacting you, but I wanted to make this.*
